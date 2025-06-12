@@ -55,3 +55,11 @@
  
 n = int(input("How many roses? "))
 print (n)       
+
+
+# Print Float/Decimal Number in Python
+
+# taking input as float 
+# TypeCasting to float
+price = float(input("Price of each roses? "))
+print( price )
