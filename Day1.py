@@ -61,22 +61,35 @@ print (n)
 
 # taking input as float 
 # TypeCasting to float
-price = float(input("Price of each roses? "))
-print( price )
+# price = float(input("Price of each roses? "))
+# print( price )
 
-#final datatype of input in python 
+# #final datatype of input in python 
 
-a = "HelLO World"
-b = 10
-c = 11.22
-d = ("Anjali", "Is", "Hero")
-e = ["Geeks", "for", "Geeks"]
-f = {"Geeks": 1, "for":2, "Geeks":3}
+# a = "HelLO World"
+# b = 10
+# c = 11.22
+# d = ("Anjali", "Is", "Hero")
+# e = ["Geeks", "for", "Geeks"]
+# f = {"Geeks": 1, "for":2, "Geeks":3}
 
-print(type(a))
-print(type(b))
-print(type(c))
-print(type(d))
-print(type(e))
-print(type(f))
+# print(type(a))
+# print(type(b))
+# print(type(c))
+# print(type(d))
+# print(type(e))
+# print(type(f))
 
+
+# Formatting Output using The Format Method
+
+# Positional formatting with format() method
+
+# Using indexed placeholders for string formatting
+print("I love {0} for \"{1}!\"".format("Geeks", "Geeks"))
+
+# {0} is replaced by the first argument 'Geeks'
+print("{0} and Portal".format("Geeks"))
+
+# Formatting with placeholders, {0} replaced by 'Geeks'
+print("Portal and {0}".format("Geeks"))
