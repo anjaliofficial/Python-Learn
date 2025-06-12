@@ -93,3 +93,20 @@ print("{0} and Portal".format("Geeks"))
 
 # Formatting with placeholders, {0} replaced by 'Geeks'
 print("Portal and {0}".format("Geeks"))
+
+
+# Advanced Usage with Positional and Named Parameters
+# Advanced formatting with positional and named arguments
+
+# Mixing positional and named arguments
+template = "Number one portal is {0}, {1} and {other}."
+print(template.format("Geeks", "For", other="Geeks"))
+
+# Format integers and floats with specified width and precision
+print("Geeks :{0:2d}, Portal :{1:8.2f}".format(12, 0.5534))
+
+# Demonstrate order swapping and formatting precision
+print("Second argument: {1:3d}, first one: {0:8.2f}".format(47.42, 11))
+
+# Using named arguments for clarity in complex formats
+print("Geeks: {a:5d}, Portal: {p:8.2f}".format(a=453, p=59.058))
