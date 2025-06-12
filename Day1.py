@@ -110,3 +110,21 @@ print("Second argument: {1:3d}, first one: {0:8.2f}".format(47.42, 11))
 
 # Using named arguments for clarity in complex formats
 print("Geeks: {a:5d}, Portal: {p:8.2f}".format(a=453, p=59.058))
+
+
+# Formatting Output using String Method
+
+
+cstr = "I love geeksforgeeks"
+
+# Printing the center aligned string with fillchr
+print("Center aligned: ")
+print(cstr.center(40, '#'))
+
+# Printing the left aligned string with "-" padding
+print("left aligned: ")
+print(cstr.ljust(40, '-'))
+
+# Printing the right aligned string with "-" padding
+print("right aligned: ")
+print(cstr.rjust(40, '-'))
