@@ -63,3 +63,20 @@ print (n)
 # TypeCasting to float
 price = float(input("Price of each roses? "))
 print( price )
+
+#final datatype of input in python 
+
+a = "HelLO World"
+b = 10
+c = 11.22
+d = ("Anjali", "Is", "Hero")
+e = ["Geeks", "for", "Geeks"]
+f = {"Geeks": 1, "for":2, "Geeks":3}
+
+print(type(a))
+print(type(b))
+print(type(c))
+print(type(d))
+print(type(e))
+print(type(f))
+
