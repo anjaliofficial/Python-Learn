@@ -27,15 +27,23 @@ print("Number of boys is:", y)
 print("Number of girls is:", z)
 
 #Take  conditional input from user in python 
+# Prompting the user for input
+age_input = input("Enter your age: ")
 
-age_input = input(" Enter your age ")
-age = int (age_input)
+# Converting the input to an integer
+age = int(age_input)
 
-if age <0:
-    print("Please Enter a valid age ")
-elif age<18:
-    print( " Ypur are a minor ")
-elif age >= 18 and age<65:
-    print("You are an adult")
-else: 
-    print("you are a senior citizen")
+# Checking conditions based on user input
+if age < 0:
+    print("Please enter a valid age.")
+elif age < 18:
+    print("You are a minor.")
+elif age >= 18 and age < 65:
+    print("You are an adult.")
+else:
+    print("You are a senior citizen.")
+
+
+#Print Names in Python
+color = input("What color is rose?")
+print(color)
