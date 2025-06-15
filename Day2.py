@@ -287,4 +287,8 @@ else:
 
 
 
-#Exam
+#Example of ternary operator 
+
+a, b = 10, 10 
+min = a if a<b else b
+print(min)  
