@@ -319,3 +319,33 @@ else:
 # Operator Associativity in python 
 #If an expression contains two or more operators with the same precedence then Operator Associativity is used to determine. 
 # It can either be Left to Right or from Right to Left.
+
+
+#Examplle 
+print(100 / 10 * 10)
+print(5 - 2 + 3)
+print(5 - (2 + 3))
+print(2 ** 3 ** 2)
+
+
+# Python Operator Exercise Questions
+# Q1. Code to implement basic arithmetic operations on integers
+
+
+
+
+
+num1 = 5
+num2 = 2
+
+sum = num1 + num2
+difference = num1 - num2
+product = num1 * num2
+quotient = num1 / num2
+remainder = num1 % num2
+
+print("Sum:", sum)
+print("Difference:", difference)
+print("Product:", product)
+print("Quotient:", quotient)
+print("Remainder:", remainder)
