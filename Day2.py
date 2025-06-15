@@ -17,3 +17,25 @@ total_score = 90
 # 1name = "Error"  # Starts with a digit
 # class = 10       # 'class' is a reserved keyword
 # user-name = "Doe"  # Contains a hyphen
+
+
+# Assigning values to variables 
+# 
+#basic Assignment 
+
+x = 5
+y= 3.15
+z = "Hii"
+
+
+
+# Dynamic Typijng ""
+# Python variables are dynamically typed, meaning the same variable can hold different types of values during execution.
+
+X = 20 
+x = "Now a string"
+
+# Assigning the same values 
+# Python allows assigning the same values to multiples variables in single lone which can be usefull for initializing variables with the same values .staticmethod
+a = b= c = 100
+print(a, b, c)
