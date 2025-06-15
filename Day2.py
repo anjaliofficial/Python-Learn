@@ -130,3 +130,43 @@ print("Length of the word:", length)
 # -----------------------------------------------------------
 #Python Operators 
 
+#Types of operators  in python 
+# Arithmetic Operators
+# Comparison Operators
+# Logical Operators
+# Bitwise Operators
+# Assignment Operators
+# Identity Operators and Membership Operators
+
+
+
+
+
+# Example of Arithmetic Operators in Python:
+
+# Variables
+a = 15
+b = 4
+
+# Addition
+print("Addition:", a + b)  
+
+# Subtraction
+print("Subtraction:", a - b) 
+
+# Multiplication
+print("Multiplication:", a * b)  
+
+# Division
+print("Division:", a / b) 
+
+# Floor Division
+print("Floor Division:", a // b)  
+
+# Modulus
+print("Modulus:", a % b) 
+
+# Exponentiation
+print("Exponentiation:", a ** b)
+
+
