@@ -278,6 +278,8 @@ else:
     print("y is NOT present in given list")
 
 
+#------------------------------------------------
+
 #Ternary operator in python 
 #in Python, Ternary operators also known as conditional expressions are operators that evaluate something based on a condition being true or false. It was added to Python in version 2.5. 
 
@@ -292,3 +294,23 @@ else:
 a, b = 10, 10 
 min = a if a<b else b
 print(min)  
+
+#-----#------------------------------------------------
+
+# Precedence and Associativity of Operators in Python
+
+# 
+# 
+# This is used in an expression with more than one operator with different precedence to determine which operation to perform first.
+
+
+
+expr = 10 + 20 * 30
+print(expr)
+name = "Alex"
+age = 0
+
+if name == "Alex" or name == "John" and age >= 2:
+    print("Hello! Welcome.")
+else:
+    print("Good Bye!!")
