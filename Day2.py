@@ -276,3 +276,15 @@ if (y in list):
     print("y is present in given list")
 else:
     print("y is NOT present in given list")
+
+
+#Ternary operator in python 
+#in Python, Ternary operators also known as conditional expressions are operators that evaluate something based on a condition being true or false. It was added to Python in version 2.5. 
+
+# It simply allows testing a condition in a single line replacing the multiline if-else making the code compact.
+
+# Syntax :  [on_true] if [expression] else [on_false] 
+
+
+
+#Exam
