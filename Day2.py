@@ -103,3 +103,11 @@ def f():
 
 f()
 print(a)
+
+#delete a variable using del keyword
+x = 10 
+print(x)
+
+del x 
+# print(x)
+
