@@ -228,3 +228,16 @@ print(a << b)
 # Assignment Operators in Python
 
 
+#Example of Assignment operator
+a = 10
+b = a
+print(b)
+b += a
+print(b)
+b -= a
+print(b)
+b *= a
+print(b)
+b <<= a
+print(b)
+
