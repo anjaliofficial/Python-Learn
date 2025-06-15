@@ -39,3 +39,25 @@ x = "Now a string"
 # Python allows assigning the same values to multiples variables in single lone which can be usefull for initializing variables with the same values .staticmethod
 a = b= c = 100
 print(a, b, c)
+#---------------------------------------------------------------------------
+
+#Type Casting a variable 
+
+# Basic Casting Functions
+# int() - Converts compatible values to an integer.
+# float() - Transforms values into floating-point numbers.
+# str() - Converts any data type into a string.
+
+#Example of casting 
+s = "10" # initally a string 
+n = int(s) #cast string to integer 
+cnt = 5
+f = float(cnt) # cast interger to float 
+age = 25
+s2 = str(age) #cast integer to string 
+
+# display result 
+
+print(n)
+print(f)
+print(s2)
