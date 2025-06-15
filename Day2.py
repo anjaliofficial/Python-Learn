@@ -111,3 +111,9 @@ print(x)
 del x 
 # print(x)
 
+
+# Practical examples 
+#1. Swapping two varibles 
+a, b = 5, 10
+a, b = b, a
+print(a, b)
