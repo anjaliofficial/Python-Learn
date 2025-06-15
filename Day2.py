@@ -117,3 +117,8 @@ del x
 a, b = 5, 10
 a, b = b, a
 print(a, b)
+
+#counting characters in a string 
+word = "Anjali"
+length = len(word)
+print("Length of the word:", length)
