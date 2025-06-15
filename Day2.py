@@ -170,3 +170,20 @@ print("Modulus:", a % b)
 print("Exponentiation:", a ** b)
 
 
+
+
+#Coomparison operators in python 
+
+a = 13
+b = 33
+
+a = 13
+b = 33
+
+print(a > b)
+print(a < b)
+print(a == b)
+print(a != b)
+print(a >= b)
+print(a <= b)
+
