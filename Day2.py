@@ -122,3 +122,11 @@ print(a, b)
 word = "Anjali"
 length = len(word)
 print("Length of the word:", length)
+
+
+
+
+
+# -----------------------------------------------------------
+#Python Operators 
+
