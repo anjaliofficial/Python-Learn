@@ -349,3 +349,17 @@ print("Difference:", difference)
 print("Product:", product)
 print("Quotient:", quotient)
 print("Remainder:", remainder)
+
+#Q2. Code to implement Comparison operations on integers
+
+num1 = 30
+num2 = 35
+
+if num1 > num2:
+    print("The first number is greater.")
+elif num1 < num2:
+    print("The second number is greater.")
+else:
+    print("The numbers are equal.")
+
+
