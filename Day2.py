@@ -200,3 +200,28 @@ b = False
 print(a and b)
 print(a or b)
 print(not a)
+
+#bitwise operator in python 
+
+
+# Bitwise Operators in Python are as follows:
+
+# Bitwise NOT
+# Bitwise Shift
+# Bitwise AND
+# Bitwise XOR
+# Bitwise OR
+
+#Example of bitwise operator in python 
+
+a = 10 
+b = 4
+
+print(a & b)
+print(a | b)
+print(~a)
+print(a ^ b)
+print(a >> b)
+print(a << b)
+
+
