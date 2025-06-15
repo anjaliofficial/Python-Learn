@@ -314,3 +314,8 @@ if name == "Alex" or name == "John" and age >= 2:
     print("Hello! Welcome.")
 else:
     print("Good Bye!!")
+
+
+# Operator Associativity in python 
+#If an expression contains two or more operators with the same precedence then Operator Associativity is used to determine. 
+# It can either be Left to Right or from Right to Left.
