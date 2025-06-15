@@ -79,3 +79,17 @@ print(type(s))
 print(type(li))     
 print(type(d))     
 print(type(bool))
+
+
+#scope of variables 
+
+#local variables
+ #global variable
+
+#local variable 
+def f (): 
+    a = "I am local"
+    print(a)
+
+f()
+    #print (a) thi would raise an error since "local _var" is not accessible outside the function 
