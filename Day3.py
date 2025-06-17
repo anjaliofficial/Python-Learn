@@ -37,3 +37,18 @@ print(True + False + False)
 # None isn't equal to  0  or an empty list []
 print(None == 0)
 print(None == [])
+
+
+#Operator Keywords : And, or, not, in,is
+
+# and Keyword - return 'True' if both the operands are 'True'
+# or Keyword - return 'True' if at least one operand is 'True'
+# not keyword - returns 'True' if the expression is 'False', and vice versa.
+
+a = True
+b = False
+
+# Logical operations
+print(a and b)  # AND: True if both a and b are True
+print(a or b)   # OR: True if at least one of a or b is True
+print(not a)    # NOT: Inverts the value of a
