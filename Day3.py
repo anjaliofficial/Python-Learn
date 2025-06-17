@@ -64,3 +64,21 @@ if 's' in 'geeksforgeeks':
     print("s is part of geeksforgeeks")
 else:
     print("s is not part of geeksforgeeks")
+
+# is keyword - Check if two variables point to the same object in memory. It returns True if the objects are identical
+# 
+# example 1.
+
+print(2, is 2)
+example 2[1,2,3]
+b = a
+c = [1,2,3]
+
+ #True a and b refer to the samme object 
+
+Print(a, b)
+
+# True: a and b refer to the same object
+print(a is b)  
+
+# False: a and c have same value but are different o
