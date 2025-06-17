@@ -52,3 +52,15 @@ b = False
 print(a and b)  # AND: True if both a and b are True
 print(a or b)   # OR: True if at least one of a or b is True
 print(not a)    # NOT: Inverts the value of a
+
+# iN Keywords (Membership Operator )-------Checking a vlaues exists in a sewuance like a list, tuple, string. 
+# It returns Trure is values is found 
+
+# example 1
+print(3 in [1,2,3])
+
+# example 2
+if 's' in 'geeksforgeeks':
+    print("s is part of geeksforgeeks")
+else:
+    print("s is not part of geeksforgeeks")
