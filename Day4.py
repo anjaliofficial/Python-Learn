@@ -77,3 +77,10 @@ print(tup3[0])
 print(tup3[-1])
 print(tup3[-3])
 
+
+
+#Boolean Data types in python
+
+print(type(True))
+print(type(False))
+# print(type(true))
