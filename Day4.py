@@ -62,3 +62,9 @@ print(a[-3])
 #Tuple Data Type s
 
 tup1 = ()
+
+tup2 = ("geeks ", "for")
+print("\nTuple with the use of string", tup2)
+
+#Note  - The creation of a Python tuple without the use of parentheses is known as Tuple Packing. 
+
