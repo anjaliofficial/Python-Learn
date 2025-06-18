@@ -128,3 +128,11 @@ print("Geeks" in set1)
 
 #Initialize empty dict 
 d = {}
+
+d = {1: 'Geeks', 2: "for", 3: "geeks"}
+print(d)
+
+
+#Creating dict using dict( ) constructor 
+d1 = dict({1: 'Geeks', 2: 'For', 3: "Geeks"})
+print(d1)
