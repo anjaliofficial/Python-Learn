@@ -108,3 +108,7 @@ print("Set with the use of the list ", s2)
 
 set1 = set(["Geeks", "For", "Geeks"])
 print(set1)
+
+
+#But we can loop through the set items using for loop, or ask if a specified values is present in a set, by using the in the keyword
+
