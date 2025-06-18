@@ -57,3 +57,8 @@ print(a[2])
 print("Accessing element using negative indexing ")
 print(a[-1])
 print(a[-3])
+
+
+#Tuple Data Type s
+
+tup1 = ()
