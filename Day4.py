@@ -68,3 +68,12 @@ print("\nTuple with the use of string", tup2)
 
 #Note  - The creation of a Python tuple without the use of parentheses is known as Tuple Packing. 
 
+#Access tuple items 
+
+tup3 = tuple([1,2,3,4,5])
+
+#Access tuple items 
+print(tup3[0])
+print(tup3[-1])
+print(tup3[-3])
+
