@@ -90,4 +90,14 @@ print(type(False))
 
 #Initializing empty set 
 s1 = set()
+
 s1 = set("Geeks for geeks")
+print("Set with the use of the list ", s1)
+
+s2 = set("Geeks for geeks")
+print("Set with the use of the list ", s2)
+
+
+#Set is unorderd 
+
+
