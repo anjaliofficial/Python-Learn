@@ -87,3 +87,7 @@ print(type(False))
 
 
 #Set Data types in pYTHON 
+
+#Initializing empty set 
+s1 = set()
+s1 = set("Geeks for geeks")
