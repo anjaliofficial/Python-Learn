@@ -32,3 +32,7 @@ print(s[-2])
 
 
 #List Data  types 
+#Creating list in python 
+
+#Empty list 
+a = []
