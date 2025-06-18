@@ -119,3 +119,6 @@ for i in set1:
 
 #Check if items exist in set 
 print("Geeks" in set1)
+
+
+#Dictionary Data types 
