@@ -163,3 +163,15 @@ fruits.append("grape")
 print(fruits)
 fruits.remove("orange")
 print(fruits)
+
+
+
+#Q2. Q2. Code to implement basic tuple operation
+
+coordinates = (3, 6, 5,4)
+print(coordinates)
+print("X-coordinate:", coordinates[0])
+print("Y-coordinate:", coordinates[1])
+
+
+
