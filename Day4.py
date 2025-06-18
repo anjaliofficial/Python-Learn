@@ -147,3 +147,19 @@ print(d['name'])
 
 #Accessing a element using get 
 print(d.get(3))
+
+
+#-------------------------------------------------------------------------------------
+
+# Python data types exercise questions 
+# Q1. Code to implement basic list operations
+
+
+
+
+fruits = ["apple", "banana", "orange"]
+print(fruits)
+fruits.append("grape")
+print(fruits)
+fruits.remove("orange")
+print(fruits)
