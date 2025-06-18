@@ -15,3 +15,17 @@ print(type(b))
 
 c = 2+4j   # complex
 print(type(c))
+
+
+#Sequence Data Types in Python 
+
+s = 'Welcome to the Geeks World'
+print(s)
+
+# check data type 
+print(type(s))
+
+# access string with index
+print(s[1])
+print(s[2])
+print(s[-2])
