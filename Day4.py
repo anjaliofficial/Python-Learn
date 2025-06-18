@@ -136,3 +136,14 @@ print(d)
 #Creating dict using dict( ) constructor 
 d1 = dict({1: 'Geeks', 2: 'For', 3: "Geeks"})
 print(d1)
+
+
+#Accessing  key - values in dict 
+
+#In order to access the items of a dict refer to its key name. key can be used inside square brackets. Using get() method we can access the dict elements 
+
+d = {1: 'Geeks', 'name': 'For', 3: 'Geeks'}
+print(d['name'])
+
+#Accessing a element using get 
+print(d.get(3))
