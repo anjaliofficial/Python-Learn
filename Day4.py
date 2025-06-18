@@ -101,3 +101,10 @@ print("Set with the use of the list ", s2)
 #Set is unorderd 
 
 
+
+#Access set items
+
+# set items cannot be accessed by referring to an index, since sets are unorderd the items have no index 
+
+set1 = set(["Geeks", "For", "Geeks"])
+print(set1)
