@@ -111,4 +111,11 @@ print(set1)
 
 
 #But we can loop through the set items using for loop, or ask if a specified values is present in a set, by using the in the keyword
+# 
+# #Loop through set 
 
+for i in set1: 
+    print(i, end = " ")
+
+#Check if items exist in set 
+print("Geeks" in set1)
