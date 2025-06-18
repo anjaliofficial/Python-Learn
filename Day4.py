@@ -122,3 +122,9 @@ print("Geeks" in set1)
 
 
 #Dictionary Data types 
+
+
+#Creating a dict in python 
+
+#Initialize empty dict 
+d = {}
