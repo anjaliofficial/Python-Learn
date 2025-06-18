@@ -84,3 +84,6 @@ print(tup3[-3])
 print(type(True))
 print(type(False))
 # print(type(true))
+
+
+#Set Data types in pYTHON 
