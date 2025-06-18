@@ -36,3 +36,12 @@ print(s[-2])
 
 #Empty list 
 a = []
+
+#List with int values 
+a = [1,2,3]
+print(a)
+
+#List with mixed int and string 
+
+b = ["Geeks", "For","Anjali", 4, 5]
+print(b)
