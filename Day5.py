@@ -84,3 +84,12 @@ a = 20
 print(bin(a))
 print(hex(a))
 print(oct(a))
+
+
+#Convert back to decimal 
+a = "1001"
+print(int(a, 2))    # Output: 9
+b = "12"
+print(int(b, 8))    # Output: 10
+c = "A1"
+print(int(c, 16))   # Output: 161
