@@ -105,3 +105,10 @@ print(int(c, 16))   # Output: 161
 #if-elif-statements. 
 
 
+
+#If satatement 
+# If the simple code of block is to be performed if the condition holds true then if statement is used. 
+# Here the condition mentioned holds true then the code of the block runs otherwise not.
+
+
+
