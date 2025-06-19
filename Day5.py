@@ -123,3 +123,9 @@ print("Program ended")
 #  else statement which is performed when if condition is false. 
 
 
+x = 3
+if x == 4:
+    print("Yes")
+else: 
+    print("No")
+    
