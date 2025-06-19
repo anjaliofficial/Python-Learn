@@ -116,3 +116,10 @@ if 10 > 5:
     print("10 Greater than 5")
 
 print("Program ended")
+
+
+#If else Statement 
+#In conditional if Statement the additional block of code is merged as
+#  else statement which is performed when if condition is false. 
+
+
