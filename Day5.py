@@ -74,3 +74,13 @@ print(list(s))
 
 # Here, a tuple and a set are both converted to lists. Note that while tuples maintain order, sets do not.
 #  However, once converted to a list, the order is preserved in the list.
+
+
+#Binary, octual ,And Hexadecimal Conversion s
+
+#Python allows ypu to convert intergers to thier binary, octal, and hex representions using the bin(), oct(), and hex() function, respectively 
+
+a = 20
+print(bin(a))
+print(hex(a))
+print(oct(a))
