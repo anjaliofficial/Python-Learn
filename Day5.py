@@ -152,3 +152,16 @@ else:
     else:
       print("letter isn't A, B and C")
 
+
+
+#Nested If statement 
+#If statement can also be checked inside other if statement. 
+
+# Nested if statement example
+num = 10
+ 
+if num > 5:
+   print("Bigger than 5")
+ 
+   if num <= 15:
+      print("Between 5 and 15")
