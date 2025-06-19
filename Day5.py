@@ -16,3 +16,9 @@ print(c)
 d = True
 e = a+d
 print(e)
+
+# Here, a is an integer and b is a float. 
+# When you add them, Python automatically converts
+#  the integer to a float, resulting in a float value for c. Similarly, d is a Boolean, and when added to an integer,
+#  it is converted to an integer (where True becomes 1), resulting in e.
+    
