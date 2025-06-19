@@ -93,3 +93,15 @@ b = "12"
 print(int(b, 8))    # Output: 10
 c = "A1"
 print(int(c, 16))   # Output: 161
+
+
+#----------------------------------------------------------------------------------------------------------------------------
+
+#if , else, and elif in python 
+
+#if
+#else
+#Nested-if
+#if-elif-statements. 
+
+
