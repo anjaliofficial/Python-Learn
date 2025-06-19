@@ -111,4 +111,8 @@ print(int(c, 16))   # Output: 161
 # Here the condition mentioned holds true then the code of the block runs otherwise not.
 
 
+#Example: 
+if 10 > 5: 
+    print("10 Greater than 5")
 
+print("Program ended")
