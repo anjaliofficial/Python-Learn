@@ -59,3 +59,18 @@ b = 11
 print(str(a) + str(b)) 	# Output: 1011
 c = 12.5
 print(str(c))        	# Output: 12.5
+
+
+
+
+#Converting Containers List 
+
+t = (10, 20, 30 )
+print(list(t))
+
+s = {10, 20, 30}
+print(list(s))
+
+
+# Here, a tuple and a set are both converted to lists. Note that while tuples maintain order, sets do not.
+#  However, once converted to a list, the order is preserved in the list.
