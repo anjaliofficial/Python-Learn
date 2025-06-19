@@ -52,4 +52,10 @@ print(set(s))
 # converting to a set removes any duplicate characters and does not preserve the order since sets are unordered collections.
 
 #String Representation of containers 
-
+l = ['a', 'b', 'c']
+print(str(l))         	# Output: ['a', 'b', 'c']
+a = 10
+b = 11
+print(str(a) + str(b)) 	# Output: 1011
+c = 12.5
+print(str(c))        	# Output: 12.5
