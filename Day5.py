@@ -4,3 +4,15 @@
 # Implicit type conversion :- this happens automatically without the programmer writing any specific code for it 
 #  
 #Explicit type conversion :- The  reqiures the programmar to use Specific functions or syntax to convert one type to another
+
+
+#Example of Implicit type conversion 
+
+a = 10
+b = 1.5
+c = a+b 
+print(c) 
+
+d = True
+e = a+d
+print(e)
