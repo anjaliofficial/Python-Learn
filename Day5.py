@@ -29,3 +29,10 @@ print(e)
 #Explicit type conversion  requires the use of function sto convert one data type to another. 
 # Python provides sevral built-in function for this purpose, 
 # such as  int(), float(), str(), list(), tuple(), and set().
+
+
+s = "135"
+i = 10 + int(s)
+f = float(s)
+print(i)
+print(i)
