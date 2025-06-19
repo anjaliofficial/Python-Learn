@@ -22,3 +22,10 @@ print(e)
 #  the integer to a float, resulting in a float value for c. Similarly, d is a Boolean, and when added to an integer,
 #  it is converted to an integer (where True becomes 1), resulting in e.
     
+
+
+#Explicit type conversion 
+
+#Explicit type conversion  requires the use of function sto convert one data type to another. 
+# Python provides sevral built-in function for this purpose, 
+# such as  int(), float(), str(), list(), tuple(), and set().
