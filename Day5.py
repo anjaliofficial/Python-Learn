@@ -36,3 +36,13 @@ i = 10 + int(s)
 f = float(s)
 print(i)
 print(i)
+
+
+
+#Converting between different containers 
+
+s = "Anjali"
+
+print(list(s))
+print(tuple(s))
+print(set(s))
