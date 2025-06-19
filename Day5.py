@@ -46,3 +46,8 @@ s = "Anjali"
 print(list(s))
 print(tuple(s))
 print(set(s))
+
+
+# Converting a string to a list or tuple breaks it down into individual characters. However, 
+# converting to a set removes any duplicate characters and does not preserve the order since sets are unordered collections.
+
