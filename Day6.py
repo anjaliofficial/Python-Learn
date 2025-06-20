@@ -64,3 +64,10 @@ while i <n :
 # the range () function python is used to generate a sequenc eof numbers ,.
 #it is used in for loops () to iterate over a sequence of numbers, s
 # allowing you to execute a block of code multiple times.
+
+
+
+#Forms of the range ( )fun
+# range(stop): Generates numbers from 0 up to stop minus 1.
+# range(start, stop): Generates numbers from start up to stop minus 1.
+# range(start, stop, step): Generates numbers from start up to stop minus 1, incrementing by step.
