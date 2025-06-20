@@ -56,3 +56,11 @@ i = 0
 while i <n :
     print("Softwaricaaa")
     i = i +1
+
+
+#----------------------------------------------------------------------------------------------------------------
+#range() in python 
+
+# the range () function python is used to generate a sequenc eof numbers ,.
+#it is used in for loops () to iterate over a sequence of numbers, s
+# allowing you to execute a block of code multiple times.
