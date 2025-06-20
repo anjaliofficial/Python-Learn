@@ -22,5 +22,9 @@ while i <5:
 # If the condition is true, it prints "GeeksforGeeks" and increments i by 1. 
 # This process repeats until i is no longer less than 5, resulting in the message being printed five times.
 
-
+#Changing initial values 
+i = 1 
+while i <5: 
+    print("Anjali")
+    i = i+1
 
