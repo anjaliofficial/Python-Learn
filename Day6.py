@@ -103,3 +103,7 @@ print()
 # With three arguments, range() allows you to define the increment between each number in the sequence. 
 # The step can be positive or negative, determining whether the sequence increments or decrements.
 
+#Example
+for i in range (0, 10, 2):
+    print(i, end = " ")
+    print()
