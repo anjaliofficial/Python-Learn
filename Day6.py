@@ -112,3 +112,13 @@ for i in range (0, 10, 2):
 
 
 #Additional examples and exercise 
+
+
+#Example 1:  Range with negative step 
+
+# When the step is negative, the sequence will decrement.
+
+for i in range (20, 0, -2):
+    print(i, end = " ")
+print()
+
