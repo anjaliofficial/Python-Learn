@@ -206,3 +206,13 @@ for i in range (len(l)):
 l = [10, 20, 30 ,40 ]
 for x in l:
     print(x)
+
+
+
+#Iterating with index and element 
+# if you need both the index and the element while iterating, you can modify the loop as follows:
+
+# Iterate through a list and print index and element
+l = [10, 20, 30, 40]
+for i in range(len(l)):
+    print(i, l[i])
