@@ -162,3 +162,12 @@ print()
 l = [10, 20, 30, 40]
 for x in l:
     print(x)
+
+
+#2. Iteraung through a String 
+
+# A string is a sequence of characters
+#Iterate through a string a print each character
+s = "Anjali"
+for x in s:
+    print(x)
