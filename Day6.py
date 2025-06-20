@@ -71,3 +71,15 @@ while i <n :
 # range(stop): Generates numbers from 0 up to stop minus 1.
 # range(start, stop): Generates numbers from start up to stop minus 1.
 # range(start, stop, step): Generates numbers from start up to stop minus 1, incrementing by step.
+
+
+
+#Range (stop)
+
+# When you call range() with a single argument, it generates numbers starting from 0 up to,
+#  but not including, the specified stop value./
+
+
+for i in range(6):
+    print(i, end = " ")
+print()
