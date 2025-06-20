@@ -180,3 +180,11 @@ for x in s:
 # Iterate through a range of numbers and print each
 for x in range(5):
     print(x)
+
+
+#Using for loop with range and if statement
+# You can combine the for loop with conditional statements to perform actions based on certain conditions
+# Print multiples of 6 within a range
+for x in range(20):
+    if x % 6 == 0:
+        print(x)
