@@ -122,3 +122,12 @@ for i in range (20, 0, -2):
     print(i, end = " ")
 print()
 
+
+#Ex2 : Range withh negative step and different parameters 
+
+for i in range(20,0, -3):
+    print(i, end = " " )
+print()
+
+
+
