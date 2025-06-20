@@ -90,3 +90,9 @@ print()
 # you can specify the starting point of the sequence as well as where it should end.
 
 
+#Example: 
+
+for i in range(5, 30):
+    print(i, end = " ")
+print()
+
