@@ -28,3 +28,12 @@ while i <5:
     print("Anjali")
     i = i+1
 
+
+
+#Infinite loops 
+# If you create a while loop where the conditiion never becomes false, the loop will run idenfinitely. 
+# for example:
+# i = 0 
+# while i <5: 
+#     print("Anjali")
+    
