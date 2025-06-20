@@ -37,3 +37,13 @@ while i <5:
 # while i <5: 
 #     print("Anjali")
     
+
+
+# Applications of infinite loops 
+# Infinite loops have practical applications in real-world scenarios. For instance,
+# web servers like Apache use infinite loops to continuously listen for incoming requests.
+#  By setting the condition to True,\
+# you can create loops that run indefinitely until an external condition breaks them
+
+# while True :
+#     print("Anjali")
