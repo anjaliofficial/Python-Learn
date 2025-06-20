@@ -188,3 +188,13 @@ for x in range(5):
 for x in range(20):
     if x % 6 == 0:
         print(x)
+
+
+
+#Iterating with index using range(len())
+# Sometimes, you may need to know the index of each item while iterating through a list. 
+# You can achieve this by using the range() function along with the len() function:
+
+l = [10, 20, 30, 40]
+for i in range (len(l)):
+    print(l[i])
