@@ -153,3 +153,12 @@ print()
 # String: A sequence of characters.
 # Set: A collection of distinct items.
 # Range: A sequence of numbers.
+
+
+# 1. Iterate through a list
+
+# Iterate through a list and print each item
+
+l = [10, 20, 30, 40]
+for x in l:
+    print(x)
