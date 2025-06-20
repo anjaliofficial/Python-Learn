@@ -47,3 +47,12 @@ while i <5:
 
 # while True :
 #     print("Anjali")
+
+
+#final Example : User input controlled while loop 
+
+n = int (input("Enter a number: "))
+i = 0 
+while i <n :
+    print("Softwaricaaa")
+    i = i +1
