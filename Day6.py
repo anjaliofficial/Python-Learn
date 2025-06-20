@@ -8,4 +8,7 @@
 # and the program will move on to the next set of instructions outside the loop.
 
 
-i
+i = 0
+while i <5:
+    print("Anjali")
+    i = i+1
