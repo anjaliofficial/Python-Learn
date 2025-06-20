@@ -83,3 +83,10 @@ while i <n :
 for i in range(6):
     print(i, end = " ")
 print()
+
+
+#   range (start, stop)
+# By providing two arguments to range(), 
+# you can specify the starting point of the sequence as well as where it should end.
+
+
