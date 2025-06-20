@@ -144,3 +144,12 @@ print()
 #  A sequence can be a list, tuple, string, set, or a range of numbers. 
 # The for loop allows you to execute a block of code for each item in the sequence.
 
+
+# Iterating Through Different Iterables
+# You can use the for loop to iterate through various types of iterables in Python:
+
+# List: A collection of items that can be of any type.
+# Tuple: An immutable sequence of items.
+# String: A sequence of characters.
+# Set: A collection of distinct items.
+# Range: A sequence of numbers.
