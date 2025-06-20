@@ -198,3 +198,11 @@ for x in range(20):
 l = [10, 20, 30, 40]
 for i in range (len(l)):
     print(l[i])
+
+
+# However, this method is not recommended when you can directly iterate through the list.
+# It's more efficient and simpler to use:
+
+l = [10, 20, 30 ,40 ]
+for x in l:
+    print(x)
