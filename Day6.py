@@ -171,3 +171,12 @@ for x in l:
 s = "Anjali"
 for x in s:
     print(x)
+    
+# 3. Iterating Through a Range
+
+# The range function generates a sequence of numbers,
+# which can be iterated over using a for loop. 
+
+# Iterate through a range of numbers and print each
+for x in range(5):
+    print(x)
