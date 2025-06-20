@@ -96,3 +96,10 @@ for i in range(5, 30):
     print(i, end = " ")
 print()
 
+
+
+
+#range(start, stop, step)
+# With three arguments, range() allows you to define the increment between each number in the sequence. 
+# The step can be positive or negative, determining whether the sequence increments or decrements.
+
