@@ -131,3 +131,16 @@ print()
 
 
 
+
+
+
+
+#-------------------------------------------------------------------------------------------------------------
+
+
+#For Loop In python 
+
+# The for loop in Python is used to iterate through a sequence.
+#  A sequence can be a list, tuple, string, set, or a range of numbers. 
+# The for loop allows you to execute a block of code for each item in the sequence.
+
