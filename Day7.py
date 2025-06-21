@@ -109,3 +109,8 @@ for i in range (2, 21, 2):
 for i in range (3, 31, 3):
    print(i, end = " ")
    print() 
+
+
+#    Issues with the Initial Approach
+# Lengthiness: Writing separate loops for each number from 1 to 10 makes the code lengthy.
+# Inflexibility: If you need to print tables from 1 to n instead of 1 to 10, you would have to write n loops, which is impractical.
