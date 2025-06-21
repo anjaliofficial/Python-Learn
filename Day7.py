@@ -121,3 +121,16 @@ for i in range(1, 6):
     for j in range(i, i*10+1, i):
         print(j, end=" ")
     print()
+
+
+
+
+#Nested loop 
+
+for i in range(1, 3):
+   j = 1
+   while  j < 3: 
+      print(i, j)
+      j = j+1
+      print("Anjali")
+      
