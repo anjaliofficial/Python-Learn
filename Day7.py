@@ -56,3 +56,20 @@ l = [10, 16, 17, 18, 19, 15]
 for x in l:
     if x % 5 != 0:
         print(x)
+
+
+
+#When to use continue
+
+# continue is always optional and can often be replaced with conditional statements. However, it makes the code more elegant, especially when dealing with long loops that contain multiple operations.
+
+
+#Example with while loop 
+
+i = 0 
+while i<=5:
+   if i == 3:
+      i = i+1
+      continue
+   print(i, i*i)
+   i = i+1
