@@ -86,3 +86,26 @@ for x in l :
       break
    print(x)
 print("Bye")
+
+
+
+#-----------------------------------------------------------------------------------
+
+#Nested Loops in python 
+# Initial Approach: Separate Loops for Each Number
+
+
+for i in range (1, 11, 1):
+   print(i, end = " ")
+   print() 
+
+   
+for i in range (2, 21, 2):
+   print(i, end = " ")
+   print() 
+   
+
+   
+for i in range (3, 31, 3):
+   print(i, end = " ")
+   print() 
