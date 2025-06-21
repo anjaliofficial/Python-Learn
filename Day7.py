@@ -133,4 +133,13 @@ for i in range(1, 3):
       print(i, j)
       j = j+1
       print("Anjali")
-      
+
+
+#Applications : Traversing a list of lists 
+
+ll = [[10, 20, 30 ], [40, 50, 60], [70, 80]]
+for l in ll:
+   for x in l:
+      print(x, end = " ")
+print()
+   
