@@ -15,3 +15,12 @@ for x in range(2, n+1):
     
 
 #Using while loop with break statement 
+
+
+n = 15
+x = 2
+while x <=n:
+    if n % x == 0:
+     print(x)
+    break
+x = x + 1
