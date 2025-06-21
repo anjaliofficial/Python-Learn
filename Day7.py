@@ -43,8 +43,16 @@ while i<=5:
 # Lo/ops in python can be controlled using jump statement like continue. 
 # 
 
+# l = [10, 16, 17, 18, 19, 15]
+# for x in l:
+#    if x % 5 == 0:
+#       continue
+#    print(x)
+
+
+#   Alternative solutions without continue
 l = [10, 16, 17, 18, 19, 15]
+
 for x in l:
-   if x % 5 == 0:
-      continue
-   print(x)
+    if x % 5 != 0:
+        print(x)
