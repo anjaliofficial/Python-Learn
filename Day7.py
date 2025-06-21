@@ -34,3 +34,11 @@ while i<=5:
    print(i)
    i = i+1
    print(i)
+
+
+
+#--------------------------------------------------------------------------------
+
+#Continue in python 
+# Lo/ops in python can be controlled using jump statement like continue. 
+# 
