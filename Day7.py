@@ -114,3 +114,10 @@ for i in range (3, 31, 3):
 #    Issues with the Initial Approach
 # Lengthiness: Writing separate loops for each number from 1 to 10 makes the code lengthy.
 # Inflexibility: If you need to print tables from 1 to n instead of 1 to 10, you would have to write n loops, which is impractical.
+
+#SOO Thats why we use nested loop
+
+for i in range(1, 6):
+    for j in range(i, i*10+1, i):
+        print(j, end=" ")
+    print()
