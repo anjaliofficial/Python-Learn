@@ -24,3 +24,6 @@ while x <=n:
      print(x)
     break
 x = x + 1
+
+
+#Ex
