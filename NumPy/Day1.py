@@ -1,2 +1,9 @@
 import numpy as np
-print(np.__version__)
+a = [2,3,4,5]
+print(a)
+
+print(type(a))
+print()
+arr = np.array(a)
+print(arr)
+print(type(arr))
