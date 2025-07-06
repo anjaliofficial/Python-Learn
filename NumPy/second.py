@@ -74,3 +74,22 @@ print("B\n", geek.linspace(2.0, 3.0, num=5, retstep=True), "\n")
 # To evaluate sin() in long range
 x = geek.linspace(0, 2, 10)
 print("A\n", geek.sin(x))
+
+
+# The numpy.reshape() function shapes an array without changing the data of the array.
+
+# Syntax:
+
+# numpy.reshape(array, shape, order = 'C')
+# Parameters : 
+
+# array : [array_like]Input array
+# shape : [int or tuples of int] e.g. if we are arranging an array with 10 elements then shaping
+#         it like numpy.reshape(4, 8) is wrong; we can do numpy.reshape(2, 5) or (5, 2)
+# order  : [C-contiguous, F-contiguous, A-contiguous; optional]         
+#          C-contiguous order in memory(last index varies the fastest)
+#          C order means that operating row-rise on the array will be slightly quicker
+#          FORTRAN-contiguous order in memory (first index varies the fastest).
+#          F order means that column-wise operations will be faster. 
+#          ‘A’ means to read / write the elements in Fortran-like index order if,
+#          array is Fortran contiguous in memory, C-like order otherwise
