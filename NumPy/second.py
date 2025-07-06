@@ -93,3 +93,17 @@ print("A\n", geek.sin(x))
 #          F order means that column-wise operations will be faster. 
 #          ‘A’ means to read / write the elements in Fortran-like index order if,
 #          array is Fortran contiguous in memory, C-like order otherwise
+
+
+
+# Return Type: 
+# 
+# Array which is reshaped without changing the data.
+
+ 
+import numpy as geek
+ 
+# array = geek.arrange(8)
+# The 'numpy' module has no attribute 'arrange'
+array1 = geek.arange(8)
+print("Original array : \n", array1)
