@@ -31,3 +31,12 @@ print ("Output 1D Array filled with random floats : ", out_arr)
 
 # Array of evenly spaced values.
 # Length of array being generated  = Ceil((Stop - Start) / Step) 
+
+#Example  
+#python programming illustrating 
+#numpy.arange method 
+import numpy as geek 
+
+print("A\n", geek.arange(4).reshape(2,2), "\n")
+print("A\n", geek.arange(4, 10), "\n")
+print("A\n", geek.arange(4, 20, 3), "\n")
