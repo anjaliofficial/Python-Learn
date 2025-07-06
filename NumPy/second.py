@@ -107,3 +107,8 @@ import numpy as geek
 # The 'numpy' module has no attribute 'arrange'
 array1 = geek.arange(8)
 print("Original array : \n", array1)
+
+# shape array with 2 rows and 4 columns
+array2 = geek.arange(8).reshape(2, 4)
+print("\narray reshaped with 2 rows and 4 columns : \n",
+      array2)
