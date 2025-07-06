@@ -40,3 +40,26 @@ import numpy as geek
 print("A\n", geek.arange(4).reshape(2,2), "\n")
 print("A\n", geek.arange(4, 10), "\n")
 print("A\n", geek.arange(4, 20, 3), "\n")
+
+
+#The numpy.linspace() function returns number spaces evenly w.r.t interval. Similar to numpy.arange() function but instead of step it uses sample number. 
+# Syntax :
+
+#  numpy.linspace(start,
+#                stop,
+#                num = 50,
+#                endpoint = True,
+#                retstep = False,
+#                dtype = None)
+# Parameters : 
+
+# -> start  : [optional] start of interval range. By default start = 0
+# -> stop   : end of interval range
+# -> restep : If True, return (samples, step). By default restep = False
+# -> num    : [int, optional] No. of samples to generate
+# -> dtype  : type of output array
+# Return : 
+ 
+
+# -> ndarray
+# -> step : [float, optional], if restep = True
