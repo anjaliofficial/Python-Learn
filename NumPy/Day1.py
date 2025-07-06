@@ -74,3 +74,19 @@ print("\nMatrix a : \n", a)
  
 c = geek.zeros([3, 3])
 print("\nMatrix c : \n", c)
+
+
+#Numpy.ones() function returns a new array of given shape and type, with ones.
+
+# sytanx numpy.ones(Shape, stype = None, order = 'C')
+
+#Parameters : 
+
+# shape : integer or sequence of integers
+# order  : C_contiguous or F_contiguous
+        #  C-contiguous order in memory(last index varies the fastest)
+        #  C order means that operating row-rise on the array will be slightly quicker
+        #  FORTRAN-contiguous order in memory (first index varies the fastest).
+        #  F order means that column-wise operations will be faster. 
+# dtype : [optional, float(byDefault)] Data type of returned array.
+
