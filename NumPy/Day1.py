@@ -40,3 +40,27 @@ print(b.dtype)
 #So we have 2 rows and 4 columns in the array b
 #We have 8 elements present in the array
 #The data type of the elements present in the array is int
+
+
+
+# The numpy.zeros() function returns a new array of given shape and type, with zeros. Syntax:
+# numpy.zeros(shape, dtype = None, order = 'C')
+# Parameters :
+
+ 
+
+# shape : integer or sequence of integers
+# order  : C_contiguous or F_contiguous
+        #  C-contiguous order in memory(last index varies the fastest)
+        #  C order means that operating row-rise on the array will be slightly quicker
+        #  FORTRAN-contiguous order in memory (first index varies the fastest).
+        #  F order means that column-wise operations will be faster. 
+# dtype : [optional, float(byDeafult)] Data type of returned array.  
+
+
+#Return 
+# ndarray of zeros having given shape, order and datatype.
+
+
+
+
