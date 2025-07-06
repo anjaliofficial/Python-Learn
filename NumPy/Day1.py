@@ -103,4 +103,4 @@ a = geek.ones([2, 2], dtype = int)
 print("\nMatrix a : \n", a)
  
 c = geek.ones([3, 3])
-print("\nMatrix c : \n", c)
+print("\nMatrix c : \n", c) 
