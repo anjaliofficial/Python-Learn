@@ -30,3 +30,13 @@ print(c.ndim)
 #size will tell us the total number of elements or values present in the array
 #dtype will tell us the data type of values which the array is containing
 
+b=np.array([[1,2,3,4],[5,6,7,8]])
+print(b.shape)
+print(b.size)
+print(b.dtype)
+
+
+#output of it 
+#So we have 2 rows and 4 columns in the array b
+#We have 8 elements present in the array
+#The data type of the elements present in the array is int
