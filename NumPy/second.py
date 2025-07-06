@@ -1,1 +1,2 @@
 #Reshape and Random Number generator 
+# numpy.random.random() is one of the function for doing random sampling in numpy. It returns an array of specified shape and fills it with random floats in the half-open interval [0.0, 1.0).
