@@ -23,4 +23,10 @@ print(a.ndim)
 print(b.ndim)
 print(c.ndim)
 
-#return which types of array is 1d or 2d \
+#return which types of array is 1d or 2d 
+
+#Now we have few more functions such as np.array.shape, np.array.size and np.array.dtype
+#shape will basically return us the total number of rows and columns of the array in a tuple format (number of rows, number of columns)
+#size will tell us the total number of elements or values present in the array
+#dtype will tell us the data type of values which the array is containing
+
